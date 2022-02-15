@@ -2,10 +2,10 @@
 
 ## Автор: Шимко Н.В
 
-[Отчет]
+[Отчет](https://github.com/NikitaSH999/Practice2022/tree/main/Отчет)
 
-[Задание]
+[Задание](https://github.com/NikitaSH999/Practice2022/tree/main/Задание)
 
-[ИСР]
+[ИСР](https://github.com/NikitaSH999/Practice2022/tree/main/ИСР)
 
-[ВСР]
+[ВСР](https://github.com/NikitaSH999/Practice2022/tree/main/ВСР)
